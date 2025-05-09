@@ -1,0 +1,17 @@
+5
+Detartraj + periaj + airflow
+300
+30
+Albire dentara profesionala
+800
+45
+Extractie simpla
+200
+30
+Extractie molar de minte inclus
+700
+90
+Tratament de canal (endodontie) - 1 canal
+500
+90
+
